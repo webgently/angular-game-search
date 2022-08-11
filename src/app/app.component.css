@@ -1,5 +1,6 @@
 .bg-container{
     background-image: linear-gradient(to bottom, #081221 ,#03080f);
     width: 100%;
+    min-height: 100vh;
     padding-bottom: 10%;
 }

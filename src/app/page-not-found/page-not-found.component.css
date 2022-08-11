@@ -1,0 +1,10 @@
+.page-not-text{
+    animation-name: pagenot;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes pagenot {
+    from {color: red;}
+    to {color: white;}
+}

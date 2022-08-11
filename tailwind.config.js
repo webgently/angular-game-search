@@ -6,6 +6,7 @@ module.exports = {
     colors: {
       black: '#000000',
       white: '#ffffff',
+      red: '#FF0000',
       input: '#182c47',
       card: '#0e1a2b',
       btn: '#5692e8',
